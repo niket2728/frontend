@@ -1,0 +1,100 @@
+.main-container {
+  background-color: white;
+}
+.main-news {
+  background-color: rgb(96, 96, 228);
+  h1 {
+    color: white;
+    text-align: center;
+    font-size: 90px;
+  }
+  border-style: solid;
+  font-size: 30px;
+}
+.circle {
+  background-color: white;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  position: relative;
+  bottom: 190px;
+  margin-left: 8px;
+}
+.sidebar {
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  background-color: rgb(102, 102, 207);
+  border-style: solid;
+  width: 500px;
+  height: 1020px;
+  position: absolute;
+  top: 235px;
+}
+.footer {
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  background-color: rgb(102, 102, 207);
+  border-style: solid;
+  margin-left: 505px;
+  position: relative;
+  top: 715px;
+}
+
+.login-details {
+  border-style: solid;
+  margin-top: 425px;
+  padding: 31px;
+  h1 {
+    text-align: center;
+  }
+  height: 470px;
+}
+.menu {
+  background-color: silver;
+  margin-left: 500px;
+  height: 72px;
+  h4 {
+    text-align: center;
+  }
+  position: relative;
+  top: -150px;
+}
+.news {
+  border-style: groove;
+  width: 330px;
+  position: relative;
+  top: -01px;
+  height: 70px;
+  font-size: 20px;
+}
+.blog {
+  border-style: groove;
+  margin-left: 330px;
+  width: 300px;
+  position: relative;
+  top: -77px;
+  height: 70px;
+  font-size: 20px;
+}
+.article {
+  border-style: groove;
+  width: 300px;
+  margin-left: 630px;
+  position: relative;
+  top: -153px;
+  height: 70px;
+  font-size: 20px;
+}
+.posts {
+  border-style: groove;
+  width: 385px;
+  margin-left: 930px;
+  position: relative;
+  bottom: 229px;
+  height: 70px;
+  font-size: 20px;
+}

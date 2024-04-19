@@ -1,0 +1,27 @@
+.center {
+  display: block;
+  margin-left: 600px;
+  margin-top: 250px;
+}
+
+.top-left {
+  position: absolute;
+  top: 03px;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 03px;
+}
+
+.top-right {
+  margin-left: 1335px;
+  position: absolute;
+  top: 03px;
+}
+
+.bottom-right {
+  margin-left: 1335px;
+  position: absolute;
+  bottom: 03px;
+}

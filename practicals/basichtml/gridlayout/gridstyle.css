@@ -1,0 +1,41 @@
+.grid-container > div {
+  display: grid;
+  background-color: whitesmoke;
+  padding: 117px;
+  text-align: center;
+  font-size: 20px;
+}
+.grid-container {
+  display: grid;
+  background-color: black;
+  gap: 20px;
+  text-align: center;
+  padding: 50px;
+  grid-template-areas:
+    "HEADER HEADER HEADER HEADER HEADER HEADER"
+    "MENU MENU MAIN MAIN RIGHT RIGHT"
+    "MENU MENU MAIN MAIN RIGHT RIGHT"
+    "MENU MENU MAIN MAIN RIGHT RIGHT"
+    "MENU MENU MAIN MAIN RIGHT RIGHT"
+    "MENU MENU MAIN MAIN RIGHT RIGHT"
+    "MENU MENU MAIN MAIN RIGHT RIGHT"
+    "MENU MENU MAIN MAIN RIGHT RIGHT"
+    "MENU MENU MAIN MAIN RIGHT RIGHT"
+    "MENU MENU MAIN MAIN RIGHT RIGHT"
+    "MENU MENU FOOTER FOOTER FOOTER FOOTER";
+}
+.top {
+  grid-area: HEADER;
+}
+.left {
+  grid-area: MENU;
+}
+.main {
+  grid-area: MAIN;
+}
+.right {
+  grid-area: RIGHT;
+}
+.footer {
+  grid-area: FOOTER;
+}

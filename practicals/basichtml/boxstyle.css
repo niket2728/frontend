@@ -1,0 +1,93 @@
+.main-container {
+  background-color: aqua;
+}
+.white,
+.blue,
+.red,
+.coral,
+.marun,
+.pink {
+  background-color: white;
+  position: relative;
+}
+.black,
+.green,
+.yellow,
+.purple,
+.grey,
+.silver {
+  background-color: black;
+  position: relative;
+}
+.white {
+  width: 1700px;
+  height: 750px;
+  left: 60px;
+  top: 40px;
+}
+.black {
+  width: 1570px;
+  height: 670px;
+  left: 130px;
+  bottom: 670px;
+}
+.blue {
+  width: 1450px;
+  height: 550px;
+  left: 170px;
+  bottom: 1280px;
+}
+.green {
+  width: 1370px;
+  height: 470px;
+  left: 207px;
+  bottom: 1790px;
+}
+.red {
+  width: 1300px;
+  height: 410px;
+  left: 240px;
+  bottom: 2230px;
+}
+.yellow {
+  width: 1230px;
+  height: 340px;
+  left: 275px;
+  bottom: 2605px;
+}
+.coral {
+  width: 1150px;
+  height: 260px;
+  left: 315px;
+  bottom: 2900px;
+}
+.purple {
+  width: 1080px;
+  height: 200px;
+  left: 350px;
+  bottom: 3130px;
+}
+.marun {
+  width: 1000px;
+  height: 140px;
+  left: 390px;
+  bottom: 3300px;
+}
+.grey {
+  width: 950px;
+  height: 100px;
+  left: 415px;
+  bottom: 3420px;
+}
+.pink {
+  width: 900px;
+  height: 60px;
+  left: 440px;
+  bottom: 3500px;
+}
+.silver {
+  width: 860px;
+  height: 40px;
+  left: 455px;
+  bottom: 3550px;
+}

@@ -1,0 +1,133 @@
+.main-container {
+  background-color: lightgray;
+  border: solid;
+}
+.left-circle {
+  height: 150px;
+  width: 150px;
+  background-color: rgb(91, 241, 241);
+  border-radius: 50%;
+  border: solid;
+}
+.rectangle-top {
+  height: 150px;
+  width: 1500px;
+  background-color: aliceblue;
+  border: solid;
+  margin-left: 160px;
+  position: relative;
+  top: -150px;
+}
+.left-column {
+  height: 650px;
+  width: 250px;
+  background-color: rgb(14, 238, 163);
+  border: solid;
+  position: relative;
+  top: -100px;
+  margin-left: 10px;
+}
+.left-middle-circle {
+  background-color: blueviolet;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: solid;
+  margin-left: 300px;
+  position: relative;
+  top: -760px;
+}
+.left-middle-column {
+  background-color: cadetblue;
+  height: 340px;
+  width: 200px;
+  border: solid;
+  margin-left: 300px;
+  position: relative;
+  top: -750px;
+}
+.rectangle-bottom {
+  background-color: darkblue;
+  height: 130px;
+  width: 1000px;
+  border: solid;
+  margin-left: 280px;
+  position: relative;
+  top: -730px;
+}
+.center-circle-upward {
+  background-color: brown;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: solid;
+  margin-left: 720px;
+  position: relative;
+  bottom: 1320px;
+}
+.center-circle-downward {
+  background-color: rgb(224, 224, 110);
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: solid;
+  margin-left: 720px;
+  position: relative;
+  bottom: 1310px;
+}
+.middle-column-center {
+  background-color: fuchsia;
+  height: 100px;
+  width: 200px;
+  border: solid;
+  margin-left: 710px;
+  position: relative;
+  bottom: 1300px;
+}
+.right-middle-column {
+  background-color: cadetblue;
+  height: 340px;
+  width: 200px;
+  border: solid;
+  margin-left: 1050px;
+  position: relative;
+  bottom: 1650px;
+}
+.right-middle-circle {
+  background-color: blueviolet;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: solid;
+  margin-left: 1100px;
+  position: relative;
+  bottom: 2160px;
+}
+.right-column {
+  background-color: rgb(61, 52, 52);
+  height: 690px;
+  width: 200px;
+  margin-left: 1320px;
+  position: relative;
+  bottom: 2340px;
+  border: solid;
+}
+.right-top-circle {
+  background-color: aqua;
+  height: 140px;
+  width: 140px;
+  border: solid;
+  border-radius: 50%;
+  margin-left: 1666px;
+  position: relative;
+  bottom: 3210px;
+}
+.top-right-column {
+  background-color: rgb(14, 238, 163);
+  height: 650px;
+  width: 250px;
+  border: solid;
+  margin-left: 1550px;
+  position: relative;
+  bottom: 3160px;
+}

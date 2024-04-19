@@ -1,0 +1,63 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 230px 230px 230px;
+  background-color: black;
+  padding: 70px;
+  gap: 40px;
+}
+.Inputtextbox-1,
+.Inputtextbox-2,
+.Inputtextbox-3,
+.Inputtextbox-4,
+.Inputtextbox-5,
+.Inputtextbox-6,
+.Inputtextbox-7,
+.Inputtextbox-8,
+.Inputtextbox-9 {
+  background-color: silver;
+  padding: 40px;
+  font-size: 20px;
+  border: 1px solid;
+  text-align: center;
+}
+.Inputtextbox-1 {
+  box-shadow: 15px 15px #ffb81c;
+}
+.Inputtextbox-2 {
+  box-shadow: 15px 15px #298fc2;
+}
+.Inputtextbox-3 {
+  box-shadow: 15px 15px #a57fb2;
+}
+.Inputtextbox-4 {
+  box-shadow: 15px 15px #20764e;
+}
+.Inputtextbox-5 {
+  box-shadow: 15px 15px#44883e;
+}
+.Inputtextbox-6 {
+  box-shadow: 15px 15px#68a3bc;
+}
+.Inputtextbox-7 {
+  box-shadow: 15px 15px#f5e1a4;
+}
+.Inputtextbox-8 {
+  box-shadow: 15px 15px#ff808b;
+}
+.Inputtextbox-9 {
+  box-shadow: 15px 15px#f57ebc;
+}
+.one,
+.two,
+.three,
+.four,
+.five,
+.six,
+.seven,
+.eight,
+.nine {
+  background-color: white;
+  height: 180px;
+  opacity: 0.4;
+}

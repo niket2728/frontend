@@ -1,0 +1,96 @@
+table,
+th,
+td {
+  border-style: 1px solid;
+  border-spacing: 30px;
+  padding: 80px;
+}
+
+.shadesofyellow {
+  .tr,
+  td {
+    padding: 3px;
+    margin-bottom: 40px;
+    font-style: bold;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    font-weight: bolder;
+    font-size: 17px;
+  }
+}
+.shadesofgreen {
+  .tr,
+  td {
+    padding: 5px;
+    margin-bottom: 30px;
+    font-style: bold;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    font-weight: bolder;
+    font-size: 17px;
+  }
+}
+.shadesofblue {
+  .tr,
+  td {
+    padding: 5px;
+    margin-bottom: 30px;
+    font-style: bold;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    font-weight: bolder;
+    font-size: 17px;
+  }
+}
+
+.shadesofpurple {
+  .tr,
+  td {
+    padding: 5px;
+    margin-bottom: 30px;
+    font-style: bold;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    font-weight: bolder;
+    font-size: 17px;
+  }
+}
+
+.shadesofpink {
+  .tr,
+  td {
+    padding: 5px;
+    margin-bottom: 30px;
+    font-style: bold;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    font-weight: bolder;
+    font-size: 17px;
+  }
+}
+
+.shadesofbrown {
+  .tr,
+  td {
+    padding: 5px;
+    margin-bottom: 30px;
+    font-style: bold;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    font-weight: bolder;
+    font-size: 17px;
+  }
+}
+
+.shadesofred {
+  .tr,
+  td {
+    padding: 5px;
+    margin-bottom: 30px;
+    font-style: bold;
+    background-color: black;
+    -webkit-text-fill-color: white;
+    font-weight: bolder;
+    font-size: 17px;
+  }
+}

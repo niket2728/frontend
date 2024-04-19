@@ -1,0 +1,24 @@
+.main-container{
+    background-color:black;
+    color: aqua;
+    
+}
+
+.sidebar{
+    background-color: rgb(31, 26, 26);
+    color: aqua;
+    height: 740px;
+    width: 500px;
+    padding: 20px;
+    position: absolute;
+    top: 20px;
+}
+
+.footer{
+    background-color: rgb(92, 86, 86);
+    color: aqua;
+    padding: 30px;
+    margin-top: 750px; 
+}
+
+

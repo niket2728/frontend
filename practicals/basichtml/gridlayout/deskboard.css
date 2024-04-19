@@ -1,0 +1,73 @@
+#main-container {
+  background-color: blueviolet;
+}
+#myheader {
+  background-color: rgba(9, 9, 104, 0.966);
+  height: 100px;
+  width: 1820px;
+  ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 10px;
+    overflow: auto;
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    font-size: 25px;
+  }
+}
+#main{
+  background-color: rgba(9, 9, 104, 0.966);
+  height: 70px;
+  position: relative;
+  left: 300px;
+  width: 1520px;
+  position: relative;
+  bottom: 25px;
+  font-size: 25px;
+  color: white;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+.topnav .search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 50px;
+  margin-right: 30px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+#sidebar {
+  background-color: rgba(9, 9, 104, 0.966);
+  height: 800px;
+  width: 300px;
+  position: relative;
+  bottom: 100px;
+  ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 10px;
+    overflow: auto;
+  }
+  li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    font-size: 25px;
+  }
+}

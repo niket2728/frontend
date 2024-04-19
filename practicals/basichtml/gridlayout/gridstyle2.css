@@ -1,0 +1,52 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 230px 230px 230px;
+  background-color: black;
+  padding: 60px;
+  gap: 40px;
+}
+.Title-1,
+.Title-2,
+.Title-3,
+.Title-4,
+.Title-5,
+.Title-6,
+.Title-7,
+.Title-8,
+.Title-9 {
+  padding: 20px;
+  font-size: 20px;
+  border: 2px solid;
+  text-shadow: 2px 2px #ff0000;
+  box-shadow: 15px 15px silver;
+  text-align: center;
+}
+.Title-1 {
+  background: #ffb81c;
+}
+.Title-2 {
+  background-color: #298fc2;
+}
+.Title-3 {
+  background-color: #a57fb2;
+}
+.Title-4 {
+  background-color: #20764e;
+}
+.Title-5 {
+  background-color: #44883e;
+}
+
+.Title-6 {
+  background-color: #68a3bc;
+}
+.Title-7 {
+  background-color: #f5e1a4;
+}
+.Title-8 {
+  background-color: #ff808b;
+}
+.Title-9 {
+  background-color: #f57ebc;
+}

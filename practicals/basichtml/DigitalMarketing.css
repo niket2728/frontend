@@ -1,0 +1,90 @@
+.main-container {
+  background-color: rgb(31, 172, 160);
+  
+}
+.rectangle {
+  background-color: rgb(104, 204, 167);
+  height: 50px;
+  width: 250px;
+  margin-left: 630px;
+  position: relative;
+  bottom: 10px;
+}
+.marketing {
+  color: white;
+  font-size: 60px;
+  margin-left: 50px;
+  font-style: bold;
+  position: relative;
+  bottom: 50px;
+}
+.circle-right{
+  background-color: rgb(104, 204, 167);
+  width: 400px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 1630px;
+}
+.square {
+  background-color: rgb(104, 204, 167);
+  height: 100px;
+  width: 150px;
+  margin-left: 630px;
+  position: relative;
+  bottom: 60px;
+}
+.is-important {
+  font-size: 40px;
+  font-style: oblique;
+  margin-left: 50px;
+  position: relative;
+  bottom: 250px;
+  font-size: 70px;
+}
+.left {
+  width: 500px;
+  margin-top: -150px;
+  margin-left: 300px;
+}
+.left1,
+.left2,
+.left3 {
+  font-style: italic;
+  text-align: center;
+  background-color: rgb(151, 233, 203);
+  border: 2px;
+  padding: 10px;
+  border-radius: 50px;
+}
+.right {
+  width: 500px;
+  margin-left: 1000px;
+  margin-top: -425px;
+}
+.right1,
+.right2,
+.right3 {
+  font-style: italic;
+  text-align: center;
+  background-color: rgb(151, 233, 203);
+  border: 2px;
+  padding: 10px;
+  border-radius: 50px;
+}
+.info {
+  color: white;
+  font-size: 30px;
+}
+.circle-bottom {
+  font-size: 40px;
+  text-align: center;
+  height: 80px;
+  width: 100px;
+  background-color: rgba(10, 3, 77, 0.89);
+  color: white;
+  border-radius: 50%;
+  margin-left: 1930px;
+  position: relative;
+  bottom: 120px;
+  border-color: white;
+}

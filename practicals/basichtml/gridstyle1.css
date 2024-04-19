@@ -1,0 +1,44 @@
+.grid-container > div {
+  background-color: lightblue;
+  display: grid;
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+}
+.grid-container {
+  display: grid;
+  background-color: blueviolet;
+  grid-template-areas:
+    "TOP TOP TOP TOP TOP TOP"
+    "LEFT MENU MENU MENU RIGHT RIGHT"
+    "LEFT BOTTOM BOTTOM BOTTOM BOTTOM BOTTOM"
+    "R R R ROW1 ROW1 ROW1"
+    "R R R ROW2 ROW2 ROW2";
+  gap: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.header {
+  grid-area: TOP;
+}
+.menu {
+  grid-area: MENU;
+}
+.left {
+  grid-area: LEFT;
+}
+.right {
+  grid-area: RIGHT;
+}
+.footer {
+  grid-area: BOTTOM;
+}
+.R {
+  grid-area: R;
+}
+.R1 {
+  grid-area: ROW1;
+}
+.R2 {
+  grid-area: ROW2;
+}

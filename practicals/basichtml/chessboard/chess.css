@@ -1,0 +1,67 @@
+.table {
+  border-collapse: collapse;
+  position: relative;
+  left: 60px;
+  bottom: 1610px;
+}
+.table,
+tr,
+td {
+  border: 3px solid white;
+  padding: 50px;
+}
+
+.background-table {
+  background-color: black;
+  width: 950px;
+  height: 900px;
+  position: relative;
+  left: 500px;
+  bottom: 65px;
+}
+.up-row {
+  color: white;
+  text-align: center;
+  letter-spacing: 90px;
+  width: 760px;
+  position: relative;
+  left: 100px;
+  top: 10px;
+  font-size: 20px;
+}
+.left-column {
+  color: white;
+  width: 70px;
+  height: 800px;
+  position: relative;
+  top: 50px;
+  text-align: center;
+  font-size: 23px;
+}
+.down-table {
+  color: white;
+  width: 760px;
+  position: relative;
+  top: 40px;
+  left: 105px;
+  letter-spacing: 90px;
+  font-size: 20px;
+}
+.right-column {
+  color: white;
+  width: 50px;
+  height: 800px;
+  position: relative;
+  bottom: 770px;
+  left: 895px;
+  text-align: center;
+  font-size: 23px;
+}
+tr:nth-of-type(odd) td:nth-of-type(even),
+tr:nth-of-type(even) td:nth-of-type(odd) {
+  background-color: black;
+}
+tr:nth-of-type(even) td:nth-of-type(even),
+tr:nth-of-type(odd) td:nth-of-type(odd) {
+  background-color: white;
+}

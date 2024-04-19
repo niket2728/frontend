@@ -1,0 +1,37 @@
+.table-body {
+  background-color: aqua;
+  position: relative;
+}
+tr,
+td,
+th {
+  border: 1px solid;
+  padding: 20px;
+}
+.table {
+  border: 2px solid;
+  position: relative;
+  left: 500px;
+  bottom: 550px;
+}
+.table1{
+  background-color: silver;
+  height: 600px;
+  width: 700px;
+  position: relative;
+  left: 420px;
+}
+.up{
+  text-align: center;
+  height: 48px;
+  width: 650px;
+  background-color: salmon;
+  letter-spacing: 50px;
+  position: relative;
+}
+.left{
+  text-align: center;
+  background-color:lightseagreen;
+  height: 500px;
+  width: 80px;
+}
